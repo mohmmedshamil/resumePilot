@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# === Common dependencies ===
+node_modules/
+**/node_modules/
+**/node_modules/
+**/node_modules/
+
+# === Next.js build ===
+.next/
+**/.next/
+
+# === Vercel build output ===
+.vercel/
+**/.vercel/
+
+# === Static build output ===
+/build
+**/build
+
+/out
+**/out
+
+# === Testing ===
+/coverage
+**/coverage
+
+# === Misc ===
+.DS_Store
+*.pem
+
+# === Debug logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Local env files ===
+.env
+.env*.local
+**/.env
+**/.env*.local
+
+# === TypeScript ===
+*.tsbuildinfo
+**/*.tsbuildinfo
+next-env.d.ts
+**/next-env.d.ts
+
