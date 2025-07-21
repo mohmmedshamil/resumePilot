@@ -12,6 +12,15 @@
 - **Landing Page Deployment:** Deploy the generated landing page with a simple click, making your online profile accessible instantly.  
 - **Intuitive Interface:** Clean, user-friendly design for smooth navigation and easy customization.
 
+- ![Screenshot](./screenshots/Screenshot from 2025-07-21 17-14-45.png)
+- - ![Screenshot](./screenshots/Screenshot from 2025-07-21 17-14-52.png)
+- ![Screenshot](./screenshots/Screenshot from 2025-07-21 17-15-22.png)
+- ![Screenshot](./screenshots/Screenshot from 2025-07-21 17-15-32.png)
+- - ![Screenshot](./screenshots/Screenshot from 2025-07-21 17-15-40.png)
+- - ![Screenshot](./screenshots/Screenshot from 2025-07-21 17-15-32.png)
+
+
+
 ---
 
 ## Demo Videos
@@ -29,8 +38,6 @@ To see resumePilot in action, check out the following demo videos showcasing the
 3. **Resume Upload and Landing Page Conversion**  
    _Demonstration of uploading a resume and automatically creating a personal landing page._  
    [Link to Resume Upload & Conversion Video](https://www.loom.com/share/ac0e1bf063c14e28a766a4daf4af25c4?sid=30b3444b-2c62-4b51-a596-193428d5a94d)
-
-> _Replace the `#` in the links above with actual URLs where your videos are hosted._
 
 ---
 
