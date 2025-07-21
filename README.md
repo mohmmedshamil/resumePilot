@@ -12,12 +12,12 @@
 - **Landing Page Deployment:** Deploy the generated landing page with a simple click, making your online profile accessible instantly.  
 - **Intuitive Interface:** Clean, user-friendly design for smooth navigation and easy customization.
 
-![Screenshot](./screenshots/Screenshot-from-2025-07-21-17-14-45.png)
-![Screenshot](./screenshots/Screenshot-from-2025-07-21-17-14-52.png)
-![Screenshot](./screenshots/Screenshot-from-2025-07-21-17-15-22.png)
-![Screenshot](./screenshots/Screenshot-from-2025-07-21-17-15-32.png)
-![Screenshot](./screenshots/Screenshot-from-2025-07-21-17-15-40.png)
-![Screenshot](./screenshots/Screenshot-from-2025-07-21-17-15-32.png)
+![Screenshot](./screenshots/Screenshot%20from%202025-07-21%2017-14-45.png)
+![Screenshot](./screenshots/Screenshot%20from%202025-07-21%2017-14-52.png)
+![Screenshot](./screenshots/Screenshot%20from%202025-07-21%2017-15-22.png)
+![Screenshot](./screenshots/Screenshot%20from%202025-07-21%2017-15-32.png)
+![Screenshot](./screenshots/Screenshot%20from%202025-07-21%2017-15-40.png)
+![Screenshot](./screenshots/Screenshot%20from%202025-07-21%2017-15-32.png)
 
 ---
 
